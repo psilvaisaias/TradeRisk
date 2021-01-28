@@ -1,0 +1,7 @@
+C:\Users\psilv\source\repos\Trade\Trade\bin\Debug\Trade.exe.config
+C:\Users\psilv\source\repos\Trade\Trade\bin\Debug\Trade.exe
+C:\Users\psilv\source\repos\Trade\Trade\bin\Debug\Trade.pdb
+C:\Users\psilv\source\repos\Trade\Trade\obj\Debug\Trade.csprojAssemblyReference.cache
+C:\Users\psilv\source\repos\Trade\Trade\obj\Debug\Trade.csproj.CoreCompileInputs.cache
+C:\Users\psilv\source\repos\Trade\Trade\obj\Debug\Trade.exe
+C:\Users\psilv\source\repos\Trade\Trade\obj\Debug\Trade.pdb
